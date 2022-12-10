@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "WordPress",
     description:
       "A website for a local realtor featuring properties for sale, contact forms and the Realty Press plugin.",
-    image: "./brantfordHomes.gif",
+    image: "./brantfordHomes2.gif",
     link: "https://brantfordhomesforsale.ca",
   },
   {

@@ -1,7 +1,7 @@
 # Portfolio
 My portfolio website built with React, available at https://www.tarabaker.ca
 
-This project was developed based on: https://www.freecodecamp.org/news/build-portfolio-website-react/
+This project was developed using the following tutorial as a starting place: https://www.freecodecamp.org/news/build-portfolio-website-react/
 
 # Getting Started with Create React App
 
