@@ -22,15 +22,16 @@ export const projects = [
       "A simple portfolio website for a local landscaping company, providing a description of their services and a contact form",
     image: "./aAndC.gif",
     link: "https://aandclandscape.ca",
-  },
-  {
-    title: "Nathan's Reno and Tile",
-    subtitle: "WordPress",
-    description:
-      "A simple portfolio website for a local tiling and renovation company, providing a description of their services and a contact form",
-    image: "./nathan.gif",
-    link: "https://nathansrenoandtile.ca/",
-  },
+  }
+  // },
+  // {
+  //   title: "Nathan's Reno and Tile",
+  //   subtitle: "WordPress",
+  //   description:
+  //     "A simple portfolio website for a local tiling and renovation company, providing a description of their services and a contact form",
+  //   image: "./nathan.gif",
+  //   link: "https://nathansrenoandtile.ca/",
+  // },
 ];
 
 export const resume = {
