@@ -13,11 +13,11 @@ export default function About() {
   return (
     <section id="about" className="flex flex-col h-screen">
       <div className="container flex m-auto md:flex-row items-center">
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 -mt-40 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-7xl text-4xl mb-4 font-medium text-white" data-aos="fade" id="helloWorld" data-aos-easing="linear">
+        <div className="lg:flex-grow md:w-1/2 lg:pr-24 lg:pl-24 md:pr-16 -mt-40 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <h1 className="title-font lg:text-7xl text-4xl mb-4 font-medium text-white" data-aos="fade" id="helloWorld" data-aos-easing="linear">
             Hello World, I'm Tara.
           </h1>
-          <h2 className="text-white-200 title-font sm:text-5xl text-2xl font-medium mb-4" id="functionalWebsites" data-aos-anchor="#helloWorld" data-aos="fade" data-aos-delay="1000">
+          <h2 className="text-white-200 title-font lg:text-5xl text-2xl font-medium mb-4" id="functionalWebsites" data-aos-anchor="#helloWorld" data-aos="fade" data-aos-delay="1000">
             I like to build beautiful, functional solutions.
           </h2>
           <p className="mb-8 w-2/3 leading-relaxed text-lg" data-aos="fade" data-aos-delay="2000">

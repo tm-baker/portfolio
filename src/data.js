@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "WordPress",
     description:
       "A website for a local realtor featuring properties for sale, contact forms and the Realty Press plugin.",
-    image: "./brantfordHomes2.gif",
+    image: "./brantfordHomes.gif",
     link: "https://brantfordhomesforsale.ca",
   },
   {
@@ -16,14 +16,21 @@ export const projects = [
     link: "https://wayneleedertrucking.ca",
   },
   {
+    title: "Portfolio",
+    subtitle: "React, Tailwind",
+    description:
+      "A simple portfolio website using React and Tailwind",
+    image: "./porfolio.gif",
+    link: "https://github.com/tm-baker/portfolio",
+  },
+  {
     title: "A & C Landscaping",
     subtitle: "WordPress",
     description:
       "A simple portfolio website for a local landscaping company, providing a description of their services and a contact form",
     image: "./aAndC.gif",
     link: "https://aandclandscape.ca",
-  }
-  // },
+  },
   // {
   //   title: "Nathan's Reno and Tile",
   //   subtitle: "WordPress",

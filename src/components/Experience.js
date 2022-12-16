@@ -30,7 +30,9 @@ export default function Experience() {
 
               {/* Line down middle of timeline */}
               <div class="hidden sm:block w-1 bg-gray-600 absolute h-full left-1/2 transform -translate-x-1/2"></div>
-              <div class="mt-10 sm:mt-0 sm:mb-12">
+
+              {/* End of the timeline (today) - hide on mobile */}
+              <div class="hidden md:flex mt-10 sm:mt-0 sm:mb-12">
                 <div class="flex flex-col sm:flex-row items-center">
                   <div class="rounded-full bg-grey-500 border-white border-4 w-8 h-8 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                     <FlagIcon className="text-white h-5 w-5"></FlagIcon>
@@ -111,8 +113,8 @@ export default function Experience() {
                   </div>
                 </div>
               </div>
-              {/* Begin */}
-              <div class="mt-20 sm:mt-0">
+              {/* Begin - hide on mobile */}
+              <div class="hidden md:flex mt-20 sm:mt-0">
                 <div class="flex flex-col sm:flex-row items-center">
                   <div class="rounded-full bg-grey-500 border-white border-4 w-8 h-8 absolute left-1/2 -translate-y-4 sm:translate-y-0 transform -translate-x-1/2 flex items-center justify-center">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">

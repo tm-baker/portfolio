@@ -1,5 +1,6 @@
 {
   "name": "my-portfolio",
+  "homepage": "http://tarabaker.ca",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
