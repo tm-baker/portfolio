@@ -12,7 +12,7 @@ export default function Navbar() {
           <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
             <div>
               <div className="flex items-center justify-between py-3 md:py-5 md:block">
-                <a href="#about" className="inline-flex">
+                <a href="#about" className="inline-flex mt-4 md:mt-0">
                   <h2 className="title-font font-medium text-white ml-3 text-xl">Tara Baker</h2>
                 </a>
                 <div className="absolute right-6 md:mr-6 inline-flex">
