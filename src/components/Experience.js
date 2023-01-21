@@ -19,7 +19,7 @@ export default function Experience() {
             Where I've Worked
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I'm currently working as a Senior Programmer Analyst and Team Lead at MAK Consulting Group.
+            I'm currently working as a Development Team Manager at MAK Consulting Group.
           </p>
         </div>
 
@@ -46,11 +46,21 @@ export default function Experience() {
                     <div class="w-full sm:w-1/2 sm:pr-8">
                       <div class="p-4 bg-white bg-opacity-80 rounded shadow" >
                         <p className="text-base font-bold">MAK Consulting Group</p>
-                        <p className="text-pink-800">Senior Programmer Analyst/Team Lead</p> 
-                        <p>January 2021 - Present</p>
-                        <br/>
-                        <p className="text-pink-800">Programmer Analyst</p> 
+                        <p className="text-pink-800">Development Team Manager</p>
+                        <p>January 2023 - Present</p>
+                        <br />
+                        <p className="text-pink-800">Senior Programmer Analyst/Team Lead</p>
+                        <p>January 2021 - December 2022</p>
+                        <br />
+                        <p className="text-pink-800">Programmer Analyst</p>
                         <p>January 2017 - December 2020</p>
+                        <div class="px-6 pt-4 pb-2">
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Angular</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">AngularJS</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">C#</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">.NET Web Services</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">SQL</span>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -67,10 +77,16 @@ export default function Experience() {
                   <div class="flex justify-end w-full mx-auto items-center">
                     <div class="w-full sm:w-1/2 sm:pl-8">
                       <div class="p-4 bg-white bg-opacity-80 rounded shadow">
-                      <p className="text-base font-bold">Mohawk College</p>
+                        <p className="text-base font-bold">Mohawk College</p>
                         <p className="text-pink-800">Professor of Software Engineering</p>
                         <p>September 2021 - Present</p>
                         <p>Part-time, Evening, Contract</p>
+                        <div class="px-6 pt-4 pb-2">
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">React Native</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">ReactJS</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Wordpress</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">VueJS</span>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -85,9 +101,15 @@ export default function Experience() {
                   <div class="flex justify-start w-full mx-auto items-center">
                     <div class="w-full sm:w-1/2 sm:pr-8">
                       <div class="p-4 bg-white bg-opacity-80 rounded shadow">
-                      <p className="text-base font-bold">iDeaWORKS Mohawk College</p>
+                        <p className="text-base font-bold">iDeaWORKS Mohawk College</p>
                         <p class="text-pink-800">Software Developer</p>
                         <p>January 2015 - December 2016</p>
+                        <div class="px-6 pt-4 pb-2">
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">C#</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">ASP.NET</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">HL7 FHIR</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -102,9 +124,15 @@ export default function Experience() {
                   <div class="flex justify-end w-full mx-auto items-center">
                     <div class="w-full sm:w-1/2 sm:pl-8">
                       <div class="p-4 bg-white bg-opacity-80 rounded shadow">
-                      <p className="text-base font-bold">Mohawk College</p>
+                        <p className="text-base font-bold">Mohawk College</p>
                         <p class="text-pink-800">Student, Graduated with Honours</p>
                         <p>September 2012 - December 2016</p>
+                        <div class="px-6 pt-4 pb-2">
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Java</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">HTML/CSS</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">PHP</span>
+                          <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
+                        </div>
                       </div>
                     </div>
                   </div>
