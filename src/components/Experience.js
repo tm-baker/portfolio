@@ -26,7 +26,7 @@ export default function Experience() {
         {/* Reference for the timeline code:  https://tailwindcomponents.com/component/responsive-vertical-timeline-1 */}
         <div className="flex flex-wrap -m-4">
           <div class="py-3 sm:mx-auto w-full px-2 sm:px-0">
-            <div class="relative text-gray-700 antialiased text-sm font-semibold">
+            <div class="relative text-gray-700 antialiased text-sm font-semibold remove-overflow">
 
               {/* Line down middle of timeline */}
               <div class="hidden sm:block w-1 bg-gray-600 absolute h-full left-1/2 transform -translate-x-1/2"></div>
