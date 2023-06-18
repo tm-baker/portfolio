@@ -47,10 +47,16 @@ export const resume = {
 };
 
 export const skills = [
+  "C#",
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "TypeScript",
   "Material UI",
+  "Angular",
+  "AngularJS",
+  "Bootstrap",
+  "Tailwind",
+  "SQL & NoSQL",
+  "ReactJS",
+  "NodeJS",
+  "HTML & CSS"
 ];
