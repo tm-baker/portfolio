@@ -26,7 +26,7 @@ export default function Experience() {
         {/* Reference for the timeline code:  https://tailwindcomponents.com/component/responsive-vertical-timeline-1 */}
         <div className="flex flex-wrap -m-4">
           <div class="py-3 sm:mx-auto w-full px-2 sm:px-0">
-            <div class="relative text-gray-700 antialiased text-sm font-semibold remove-overflow">
+            <div class="relative text-gray-700 antialiased text-sm font-semibold">
 
               {/* Line down middle of timeline */}
               <div class="hidden sm:block w-1 bg-gray-600 absolute h-full left-1/2 transform -translate-x-1/2"></div>
@@ -79,7 +79,7 @@ export default function Experience() {
                       <div class="p-4 bg-white bg-opacity-80 rounded shadow">
                         <p className="text-base font-bold">Mohawk College</p>
                         <p className="text-pink-800">Professor of Software Engineering</p>
-                        <p>September 2021 - Present</p>
+                        <p>September 2021 - April 2023</p>
                         <p>Part-time, Evening, Contract</p>
                         <div class="px-6 pt-4 pb-2">
                           <span class="inline-block bg-pink-800 rounded-full px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">React Native</span>
