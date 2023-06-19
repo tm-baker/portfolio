@@ -3,7 +3,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/projects/Projects";
-import Experience from "./components/Experience";
+import Experience from "./components/experience/Experience";
 import Skills from "./components/skills/Skills";
 
 export default function App() {

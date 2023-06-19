@@ -41,6 +41,63 @@ export const projects = [
   // },
 ];
 
+export const experience = [
+  {
+     company: "MAK Consulting Group",
+     roles: [{
+        title: "Development Team Manager",
+        period: "January 2023 - Present",
+        details: null
+     },
+     {
+      title: "Team Lead/Senior Programmer Analyst",
+      period: "January 2021 - December 2022",
+      details: null
+     },
+     {
+      title: "Programmer Analyst",
+      period: "January 2017 - December 2020",
+      details: null
+     }],
+     job_skills: [ "Angular", "AngularJS", "C#", ".NET Web Services", "SQL"],
+     icon: "test",
+     direction: "right"
+  },
+  {
+    company: "Mohawk College",
+    roles: [{
+       title: "Professor of Software Engineering",
+       period: "September 2021 - April 2023",
+       details: "Part time, Evening, Contract"
+    }],
+    job_skills: [ "ReactJS", "React Native", "NodeJS", "WordPress", "NoSQL", "VueJS"],
+    icon: "test",
+    direction: "left"
+ },
+ {
+  company: "iDeaWORKS Mohawk College",
+  roles: [{
+     title: "Software Developer",
+     period: "January 2015 - December 2016",
+     details: null
+  }],
+  job_skills: [ "HL7 FHIR", "ASP.NET MVC", "Java", "JavaScript", "C#", "Cordova"],
+  icon: "test",
+  direction: "right"
+},
+{
+  company: "Mohawk College",
+  roles: [{
+     title: "Student",
+     period: "September 2012 - December 2016",
+     details: null
+  }],
+  job_skills: [ "HTML/CSS", "Java", "JavaScript", "C#", "PHP"],
+  icon: "test",
+  direction: "left"
+},
+];
+
 export const resume = {
   title: "Resume",
   file: "./assets/taraBakerResume.pdf"
