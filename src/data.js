@@ -24,12 +24,12 @@ export const projects = [
     link: "https://github.com/tm-baker/portfolio",
   },
   {
-    title: "A & C Landscaping",
-    subtitle: "WordPress",
+    title: "To Do List",
+    subtitle: "React, Redux, Material UI",
     description:
-      "A simple portfolio website for a local landscaping company, providing a description of their services and a contact form",
-    image: "./assets/aAndC.gif",
-    link: "https://aandclandscape.ca",
+      "A simple to do list app using React, Redux and Material UI",
+    image: "./assets/todo.gif",
+    link: "https://github.com/tm-baker/to-do-list-react",
   },
   // {
   //   title: "Nathan's Reno and Tile",
