@@ -43,10 +43,21 @@ export const projects = [
 
 export const experience = [
   {
+    company: "The Canadian Medical Protective Association",
+    roles: [{
+       title: "Senior Full Stack Developer",
+       period: "September 2023 - Present",
+       details: null
+    }],
+    job_skills: [ "React", "C#", ".NET Web Services", "SQL", "Jenkins", "JIRA", "Swagger UI", 'Hangfire'],
+    icon: "test",
+    direction: "left"
+ },
+  {
      company: "MAK Consulting Group",
      roles: [{
         title: "Development Team Manager",
-        period: "January 2023 - Present",
+        period: "January 2023 - August 2023",
         details: null
      },
      {
@@ -59,7 +70,7 @@ export const experience = [
       period: "January 2017 - December 2020",
       details: null
      }],
-     job_skills: [ "Angular", "AngularJS", "C#", ".NET Web Services", "SQL"],
+     job_skills: [ "Angular", "AngularJS", "C#", ".NET Web Services", "SQL", "DevOps", "Git"],
      icon: "test",
      direction: "right"
   },
@@ -113,7 +124,11 @@ export const skills = [
   "Bootstrap",
   "Tailwind",
   "SQL & NoSQL",
-  "ReactJS",
+  "React",
   "NodeJS",
-  "HTML & CSS"
+  "HTML & CSS",
+  "Jenkins",
+  "Swagger UI",
+  "Hangfire",
+  "Git"
 ];

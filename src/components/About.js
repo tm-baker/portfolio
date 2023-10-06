@@ -20,8 +20,8 @@ export default function About() {
             I like to build beautiful, functional solutions.
           </h2>
           <p className="mb-8 w-2/3 leading-relaxed text-lg" data-aos="fade" data-aos-delay="2000">
-          I'm a full stack developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, 
-          I'm focused on developing global enterprise software at <a href='https://makcg.com' className="text-pink-600 hover:text-white">MAK</a>.
+          I'm a senior full stack developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, 
+          I'm focused on developing a financial management system at <a href='https://www.cmpa-acpm.ca/en/home' className="text-pink-600 hover:text-white">The Canadian Medical Protective Association</a>.
           </p>
           <div className="flex justify-center" data-aos="fade" data-aos-delay="2000">
             <a

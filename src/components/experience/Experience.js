@@ -22,7 +22,7 @@ export default function Experience() {
             Where I've Worked
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I'm currently working as a Development Team Manager at MAK Consulting Group.
+            I'm currently working as a Senior Full Stack Developer at The Canadian Medical Protective Association.
           </p>
         </div>
 
