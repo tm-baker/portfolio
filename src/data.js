@@ -129,6 +129,5 @@ export const skills = [
   "HTML & CSS",
   "Jenkins",
   "Swagger UI",
-  "Hangfire",
-  "Git"
+  "Hangfire"
 ];

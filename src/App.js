@@ -8,7 +8,7 @@ import Skills from "./components/skills/Skills";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main className="text-black body-font bg-[url('/assets/background.jpg')] bg-contain bg-no-repeat">
       <Navbar />
       <About />
       <Experience />
